@@ -1,0 +1,6 @@
+*.idea/*
+terraform/*.json
+terraform/.terraform
+terraform/terraform.tfstate*
+terraform/.terraform*
+*/.DS_Store
